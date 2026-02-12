@@ -56,6 +56,6 @@ Veja que essa funcionalidade é diferente do Rewind. O Rewind volta a um ponto a
 
 - **paste** = O terminal do claude code aceita arquivos, para isso basta colar o arquivo no terminal.
 
-**/chrome** = O claude pode trabalhar com o com Chrome através de extensões disponibilizadas pela própria Anthropic. 
+- **/chrome** = O claude pode trabalhar com o com Chrome através de extensões disponibilizadas pela própria Anthropic. 
 Essa funcionalidade nos permite executar testes, validar as informações do console e etc, utilizando o claude code.
 Isso é excelente para testes de frontend ou E2E.
